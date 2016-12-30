@@ -1,0 +1,13 @@
+<div class="home_page">
+<center> <h1>Home Page</h1></center>
+<ul class = "test">
+    <li ng-repeat='video in videos'><a href="/#/videos/{{video._id}}">{{video.title}}</a>
+        <a href="/#/videos/delete/{{video._id}}">
+            <i class="glyphicon glyphicon-remove"></i>
+        </a>
+    </li>
+</ul>
+<p>
+    <a href="/#/add-video" class="btn btn-primary btn-lg btn-block">Add an Entry</a>
+</p>
+</div>

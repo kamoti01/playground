@@ -1,0 +1,29 @@
+body {
+  background: url('/images/bg.jpeg') no-repeat center center fixed; 
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  /*color: #00B7FF;*/
+  color: ;
+}
+.test {
+	
+}
+.home_page {
+/*	background: url('/images/fish_bg.jpg') no-repeat center center fixed;
+	height: 100%;*/
+/*    background-color: #F4E1FF;
+    background: #F4E1FF -webkit-gradient(linear, left top, left bottom, from(#B3F5DE), to(#F4E1FF)) no-repeat;
+    background: #F4E1FF -moz-linear-gradient(top, #B3F5DE, #F4E1FF) no-repeat;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#B3F5DE, endColorstr=#F4E1FF) no-repeat;
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#B3F5DE, endColorstr=#B3F5DE)" no-repeat;
+*/
+    background-color: #F5BDB3;
+    background: #F5BDB3 -webkit-gradient(linear, left top, left bottom, from(#F5E9B3), to(#F5BDB3)) no-repeat;
+    background: #F5BDB3 -moz-linear-gradient(top, #F5E9B3, #F5BDB3) no-repeat;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#F5E9B3, endColorstr=#F5BDB3) no-repeat;
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#F5E9B3, endColorstr=#F5E9B3)" no-repeat;
+}
+
